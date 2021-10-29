@@ -1,0 +1,8 @@
+,position,reference_base,alternative_base,frequency,significant
+0,72,A,G,99.96,True
+1,117,C,T,99.82,True
+4,307,C,T,0.94,True
+10,774,T,C,99.96,True
+14,999,C,T,99.86,True
+18,1260,A,C,99.94,True
+20,1458,T,C,0.84,True
